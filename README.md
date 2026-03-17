@@ -10,3 +10,5 @@ Ziel war es, eine saubere Datenbasis zu schaffen und erste aussagekräftige Kenn
 ## Dataset
 Die Analysen basieren auf der öffentlich verfügbaren MySQL-Beispieldatenbank „Employees“, die typische Mitarbeiter- und Gehaltsdaten enthält.
 
+## Projekt
+[Portfolio öffnen](./SQL_Portfolio_Basics_Jan_Gombala.pdf)
