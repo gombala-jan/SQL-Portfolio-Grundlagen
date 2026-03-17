@@ -1,4 +1,4 @@
-# SQL-Portfolio-Grundlagen
+# SQL-Portfolio-Basics
 SQL Grundlagen – Analyse von Mitarbeiter- und Gehaltsdaten
 
 Dieses Projekt zeigt meine ersten praktischen Schritte in der Datenanalyse mit SQL.
